@@ -30,6 +30,12 @@
 | ZenFone 11 Ultra | `AI2401_H` / `ZWW_AI2401` |
 | ZenFone 12 Ultra | `AI2501H` |
 
+## Other methods
+
+- [ROG Phone 3](https://xdaforums.com/t/rog-phone-3-bootloader-unlock-guide.4671658/)
+- [ROG Phone 9 / 9 Pro](https://xdaforums.com/t/tool-edl-rog-phone-9-9-pro-ai2501-offline-bootloader-unlock.4798270/)
+- [ZenFone 6](https://github.com/transaero21/asus-zenfone6-unlock)
+
 ## rog-unlock.jpg
 
 ![](rog-unlock.jpg)
